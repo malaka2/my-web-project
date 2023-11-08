@@ -1,0 +1,7 @@
+.navbar-nav{
+  font-size: x-large;
+  font-style: italic;
+  color: black;
+  background-color: aquamarine;
+}
+.navbar-nav.hover{color: aquamarine;}
